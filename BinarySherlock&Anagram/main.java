@@ -5,7 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		BinarySA isAD = new BinarySA();
 
-		test(isAD, 10, 26);
+		test(isAD, 50, 46);
 
 	}
 	
